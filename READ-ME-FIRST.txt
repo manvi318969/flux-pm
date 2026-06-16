@@ -1,0 +1,39 @@
+================================================================
+   FLUX - PROJECT MANAGEMENT TOOL  -  SABSE PEHLE YE PADHO
+================================================================
+
+UBUNTU / LINUX PE CHALANA HAI?
+------------------------------
+1. Pehle "SETUP-GUIDE-Ubuntu.docx" kholo aur padho.
+
+2. Guide mein PART A ek baar karna hai
+   (Node.js install + MongoDB free account).
+   AGAR NOIR PEHLE CHALAYA THA to ye already ho chuka hai!
+
+3. Phir terminal mein folder kholo aur ye ek command chalao:
+
+        bash START.sh
+
+   Sab apne aap chal jayega aur browser khul jayega.
+
+Itna hi! Detail sab guide document mein hai.
+
+
+KYA-KYA FILE HAI ISME
+---------------------
+- SETUP-GUIDE-Ubuntu.docx ... pura step-by-step guide (YE PEHLE PADHO)
+- START.sh ................. sab chalane wali ek command
+- backend/ ................. server ka code
+- frontend/ ................ app ka code
+- README.md ............... technical details
+
+
+KUCH ATAK JAYE TO
+-----------------
+Guide ke PART C (Troubleshooting) mein har problem ka hal hai.
+Sabse common fix: database connect na ho to mobile hotspot
+pe switch karke try karo (NOIR ke time bhi yahi fix tha).
+
+================================================================
+        FLUX - Where work flows
+================================================================
